@@ -1,8 +1,8 @@
 # 阶段 02-2 · 还原现状流程：现状流程图与异常路径
 
 - 项目：拾光连锁 · 门店补货与库存协同（案例：货架满了，爆款却没了）
-- 交付物：`02-2-current-process-flow.png`（现状流程图 + 瓶颈责任人表 + 异常路径表 + 理想/现场差异表）
-- 上游：`02-1-interview-record-role-map.md`（36/36 线索）、`docs/discovery-report.md`（retail-fXX）、`docs/拾光连锁…四份可核对资料.html`
+- 交付物：`docs/02-2-current-process-flow.png`（现状流程图 + 瓶颈责任人表 + 异常路径表 + 理想/现场差异表）
+- 上游：`02-1-interview-record-role-map.md`（36/36 线索）、`docs/discovery-report.md`（retail-fXX）、`docs/拾光连锁-货架满了，爆款却没了-四份可核对资料.html`
 - 边界：**本图是"产品介入前"的瑕疵现状**，不是目标态；图中每一处断点都是刻意保留的，不做美化
 
 **证据标注**：【已证 fXX】= 证据台账事实；【原文·零售-0XX】= 补录访谈原文的增量点；【待核实】= 材料未记录。
