@@ -1,0 +1,34 @@
+# 操作系统与编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+*~
+
+# Office 临时文件
+~$*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Node
+node_modules/
+npm-debug.log*
+pnpm-debug.log*
+
+# 通用临时产物
+*.log
+*.tmp
+*.bak
+.cache/
+
+# 本地环境变量与密钥
+.env
+.env.local
+*.pem
